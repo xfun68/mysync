@@ -1,0 +1,1 @@
+num=5; name="xiyou_shunw"; src_pkg_name="pkg_erating_toolkits.pck"; dst_pkg_name="PKG_ERATING_TOOLKITS.pck"; svn cp ../../../release/plsql/erating_$name/$src_pkg_name 20101026_0"$num"_fix_untrustee_user_for_$name/packages/upgrade/$dst_pkg_name; svn cp ../../../release/plsql/erating_$name/$src_pkg_name 20101026_0"$num"_fix_untrustee_user_for_$name/packages/degrade/$dst_pkg_name;
